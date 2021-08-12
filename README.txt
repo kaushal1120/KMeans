@@ -1,11 +1,11 @@
 KMeans Clustering:
 1. The main function in java file Executor.java in package ai.unsupervisedlearning.clustering runs the KMeans with RandomRestart program.
 
-2. The input for this program is defined in KMeans-master/src/input_files/kmeans_input.txt. Replace the contents of this input file to modify 
-any or all of the following three parameters in their respective order: 
+2. The input for this program is defined in KMeans-master/src/input_files/kmeans_input.txt. Replace the contents of this input file to modify
+any or all of the following three parameters in their respective order:
 i) k : no. of clusters ii) r : no. of random restarts iii) output mode : 1-verbose/0-compact.
 
-3. The data points on which the KMeans algorithm is run is defined in KMeans-master/src/input_files/data.csv. Replace the contents of this data 
+3. The data points on which the KMeans algorithm is run is defined in KMeans-master/src/input_files/data.csv. Replace the contents of this data
 file to run KMeans with Random Restart on any other dataset.
 
 To run the above program:
